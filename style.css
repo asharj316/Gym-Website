@@ -1,0 +1,36 @@
+body {
+    
+    background-color: rgba(0, 0, 0, 0.74);
+    color: rgb(114, 158, 32);
+}
+td{ 
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+h1{
+    border: 10px solid rgb(114, 158, 32);
+    color: black;
+}
+dt{
+    border: 3px solid black;
+}
+            
+button {
+    display: block;
+
+    background-color: rgb(114, 158, 32);
+    color: white;
+    border: 5px solid black;
+    cursor: pointer;
+   }
+   button a {
+    text-decoration: none;
+    color: white;
+   }
+   button:hover {
+    background-color: rgba(0, 0, 0, 0.74);}
+video{
+    border: 5px solid rgb(114, 158, 32);
+}
